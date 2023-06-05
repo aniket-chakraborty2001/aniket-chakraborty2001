@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aniket-chakraborty2001
 - 👀 I’m interested in ...Data Science & Data Analytics
 - 🌱 I’m currently learning ... Data Science,Machine Learning,Data Analytics
-- 💞️ I’m looking to collaborate on ...
+- 💞
 - 📫 How to reach me....
 - Linkedin: http://www.linkedin.com/in/aniket-chakraborty20022001
 - Facebook: https://www.facebook.com/profile.php?id=100071719155008
