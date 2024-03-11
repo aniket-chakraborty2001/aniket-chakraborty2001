@@ -1,12 +1,18 @@
-# 💫 About Me:
 <h1>Hi, This is Aniket Chakraborty</h1>
-<h4>A Data Science and Data Analyst Aspirant from Kolkata, West Bengal</h4>
-Currently Working on Deep Learning and TensorFlow
-<br>
-Currently Learning HTML, CSS, JS, Power BI, AI
-<br>
-I think I am a quick Learner
-
+<h3><p>Data Science and Data Analyst Aspirant from Kolkata, West Bengal</p></h3>
+<hr>
+<ul>
+  <li>Data Analysis, Data Manipulation, Data Visualization</li>
+  <li>Machine Learning</li>
+  <li>Data StoryTelling</li>
+  <li>Currently Working On Deep Learning and TensorFlow</li>
+  <li>Currently Learning HTML, CSS, JS, Power BI and AI</li>
+  <li>Skills on LLMs like ChatGPT - Prompt Engineering</li>
+  <li>Python, R, SQL, Spreadsheets, Power Point, Tableau, ChatGPT</li>
+  <li>I think I am a quick Learner</li>
+</ul>
+<hr>
+<h3>To Get My Data Science Portfolio <a href = "https://aniket-chakraborty2001.github.io/Data_Science_Portfolio/">Click Here</a></h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-chakraborty20022001) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20300182) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AniketChak29138) 
